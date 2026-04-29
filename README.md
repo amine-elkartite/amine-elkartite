@@ -1,4 +1,4 @@
-# AMINE ELKARTITE
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AMINE+ELKARTITE)](https://git.io/typing-svg)
 I’m currently building  <br>→ SECUTrick — a next-gen cybersecurity platform to protect websites from real-world attacks  <br><br>Open to collaborate on  <br>→ High-value SaaS, security systems, and scalable web applications  <br><br>Currently mastering  <br>→ Advanced penetration testing & AI-powered threat detection  <br><br>Ask me about  <br>→ Web security, hacking prevention, vulnerability scanning  <br><br>Fun fact  <br>→ Most websites I analyze have critical vulnerabilities
 
 
